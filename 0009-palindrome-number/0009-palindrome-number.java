@@ -7,6 +7,6 @@ class Solution {
             x=x/10;
         }
         if(rev==real) return true;
-        return false;
+        else return false;
     }
 }
